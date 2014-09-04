@@ -1,0 +1,44 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.005943,
+                    40.712784
+                ]
+            },
+            "properties": {
+                "name": "New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.419418,
+                    37.774929
+                ]
+            },
+            "properties": {
+                "name": "San Francisco, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.850288,
+                    35.732651
+                ]
+            },
+            "properties": {
+                "name": "Apex, NC"
+            }
+        }
+    ]
+}

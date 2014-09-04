@@ -1,0 +1,30 @@
+{
+  "name":               "weather-mapper",
+  "description":        "displays maps with weather data",
+  "version":            "1.0.0",
+  "main":               "./lib/weather-mapper.js",
+  "bin": {
+    "weather-mapper":   "bin/weather-mapper.js"
+  },
+  "scripts": {
+    "start":            "node bin/weather-mapper.js"
+  },
+  "author":             "pmuellr",
+  "license":            "Apache-2.0",
+  "homepage":           "https://github.com/pmuellr/weather-mapper",
+  "repository": {
+    "type":             "git",
+    "url":              "https://github.com/pmuellr/weather-mapper.git"
+  },
+  "dependencies": {
+    "cfenv":            "1.0.x",
+    "hapi":             "6.7.x",
+    "nopt":             "3.0.x",
+    "togeojson":        "0.8.x",
+    "underscore":       "1.7.x"
+  },
+  "devDependencies": {
+    "browserify":       "5.11.x",
+    "cat-source-map":   "0.1.x"
+  }
+}

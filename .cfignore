@@ -1,0 +1,6 @@
+bower_components
+# manifest.yml
+node_modules
+tmp
+vendor
+www-src

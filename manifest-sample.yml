@@ -1,0 +1,8 @@
+---
+applications:
+- name:      weather-mapper
+  host:      weather-mapper-<your initials here>
+  domain:    mybluemix.net
+  memory:    128M
+  instances: 1
+  command:   node app
