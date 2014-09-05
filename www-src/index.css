@@ -23,6 +23,13 @@ body {
   margin-bottom: 5px;
 }
 
+.weather-icon {
+  background-color: #FFA;
+  padding:          4px;
+  border-radius:    8px;
+  border:           thin solid black;
+}
+
 /*
 #-------------------------------------------------------------------------------
 # Copyright IBM Corp. 2014
